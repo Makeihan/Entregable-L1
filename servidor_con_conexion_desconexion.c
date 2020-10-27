@@ -7,7 +7,7 @@
 #include <stdio.h>
 
 
-
+//Este es el programa principal
 int main(int argc, char *argv[])
 {
 	
